@@ -1,3 +1,5 @@
+Trampoline hooking library (only x86 for now)
+
 ```
 void ExampleUsage()
 {
