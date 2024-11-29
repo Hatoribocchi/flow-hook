@@ -84,7 +84,7 @@ namespace FH
             // Add a jump at the end of the trampoline back to the remainder of the original function
             uint8_t* pTrampoline = static_cast<uint8_t*>(pReturnMem);
 
-            // x86 mode.
+            // x86 mode
             if (bIsX86Mode)
             {
                 // Opcode for a relative jump
