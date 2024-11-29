@@ -9,3 +9,5 @@ void ExampleUsage()
         return;
 }
 ```
+
+Dependencies: Nmd disassembler - https://github.com/Nomade040/nmd
